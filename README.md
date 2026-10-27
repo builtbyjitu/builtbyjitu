@@ -15,7 +15,7 @@
 </h1>
 
 <h3 align="center">
- Founder & Full Stack Developer | MERN & Next.js | SaaS & Product Builder
+ Full Stack Developer | MERN & Next.js | SaaS & Product Builder
 </h3>
 
 <p align="center">
@@ -35,11 +35,11 @@
 
 ## About Me
 
-I'm a **Full Stack Developer and Founder** passionate about building scalable web applications, SaaS platforms and digital products.
+I'm a **Full Stack Developer** passionate about building scalable web applications, SaaS platforms and digital products.
 
 With **2+ years of hands-on development experience**, I work across the complete product lifecycle — from architecture and UI/UX to backend APIs, databases, deployment and optimization.
 
-- **Founder:** Appnix Technologies
+- **FUll Stack Developer:** Appnix Technologies
 - **Specialization:** MERN Stack & Next.js
 - **Currently Building:** SaaS products, CRM systems & scalable web applications
 - **Current Project:** Dataprenure — Institute Full Stack CRM Platform
