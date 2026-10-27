@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Jitendra%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=58&descSize=20" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Jitendra%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <!-- ========================= -->
@@ -39,7 +39,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 With **2+ years of hands-on development experience**, I work across the complete product lifecycle — from architecture and UI/UX to backend APIs, databases, deployment and optimization.
 
-- **FUll Stack Developer:** Appnix Technologies
+- **Full Stack Developer:** Appnix Technologies
 - **Specialization:** MERN Stack & Next.js
 - **Currently Building:** SaaS products, CRM systems & scalable web applications
 - **Current Project:** Dataprenure — Institute Full Stack CRM Platform
